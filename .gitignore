@@ -1,0 +1,13 @@
+// Purpose: Ignore files that are not needed in the repository.
+
+*.pdf
+*.html
+*.zip
+*.pptx
+*.log
+*.out
+*.aux
+
+
+*.pdf_tex
+*.png
