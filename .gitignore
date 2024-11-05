@@ -11,3 +11,5 @@
 
 *.pdf_tex
 *.png
+
+!project/*.pdf
